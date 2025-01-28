@@ -8,3 +8,5 @@ Below is the Old Hungarian-Elder Futhark similrity matrix.
 
 
 The greatest value in each row is marked in red, the greatest value in each column is marked in blue, and the greatest value in both a row and column is marked in purple. Overall, the distribution is fairly random. Many values are also quite low. Most importantly however, few high numbers appear along the diagonal. This could be because the letters are not in the same order (same sounding letters should appear in the same order).
+
+After arranging the rows and columns to make the main diagonal contain only red entries, although there are many visually similar signs, the two scripts are not related because we found that there was only one visual pair that contains signs with similar phonemes.
